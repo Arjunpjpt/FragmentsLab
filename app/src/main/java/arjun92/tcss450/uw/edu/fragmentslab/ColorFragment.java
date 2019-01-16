@@ -13,7 +13,7 @@ import android.widget.TextView;
  * A simple {@link Fragment} subclass.
  */
 public class ColorFragment extends Fragment {
-
+//test change
 
     public ColorFragment() {
         // Required empty public constructor
